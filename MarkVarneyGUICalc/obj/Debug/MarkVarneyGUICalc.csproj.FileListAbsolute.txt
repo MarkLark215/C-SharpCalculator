@@ -1,0 +1,19 @@
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.exe
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.pdb
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.exe
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.pdb
+c:\users\mark\documents\visual studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.CalcForm.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.exe.CodeAnalysisLog.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.exe.lastcodeanalysissucceeded
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.exe.config
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.exe
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.pdb
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.exe
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\bin\Debug\MarkVarneyGUICalc.pdb
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.CalcForm.resources
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.Properties.Resources.resources
+C:\Users\Mark\Desktop\Varney_Mark_11418593\MarkVarneyGUICalc\MarkVarneyGUICalc\obj\Debug\MarkVarneyGUICalc.csproj.GenerateResource.Cache
