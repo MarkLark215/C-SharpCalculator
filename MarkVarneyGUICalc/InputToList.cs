@@ -36,15 +36,12 @@ namespace MarkVarneyGUICalc
                 if (input[i] == '-' || input[i] == '+' && itsSigned == false)
                 {
                     AddOpp(input, brokenUp);
-
                 }
 
                 if (input[i] == '*' || input[i] == '/' || input[i] == '%' || input[i] == '^')
                 {
                     AddOpp(input, brokenUp);
                 }
-
-
             }
             return brokenUp;
         }
@@ -79,7 +76,6 @@ namespace MarkVarneyGUICalc
             stringBuilder.Clear();
             if (k < input.Length)
             {
-
                 k++;
             }
             if (i < (input.Length - 1))
@@ -89,7 +85,6 @@ namespace MarkVarneyGUICalc
                 {
                     itsSigned = true;
                 }
-
             }
         }
     }

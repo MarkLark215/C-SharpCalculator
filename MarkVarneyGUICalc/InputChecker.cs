@@ -9,12 +9,14 @@ namespace MarkVarneyGUICalc
     //Class Checks that the string input is in the correct format (num, op, num, op, num)
     class InputChecker
     {
-        Boolean areCharValid = true;
-        Boolean isformatCorrect = true;
-        Boolean isDecptCorrect = true;
-        Boolean isThereMoreThanOneChar = true; 
+
         public Boolean CheckInput(string input)
         {
+            Boolean areCharValid = true;
+            Boolean isformatCorrect = true;
+            Boolean isDecptCorrect = true;
+            Boolean isThereMoreThanOneChar = true;
+
             isThereMoreThanOneChar = IsThereMoreThanOneChar(input);
 
             if (isThereMoreThanOneChar == true)
@@ -66,7 +68,7 @@ namespace MarkVarneyGUICalc
         private Boolean IsTheFormatCorrect(string input)
         {
             Boolean localIsFormatCorrect = true;
-            Boolean z = false;
+            Boolean toggle = false;
             int i = 0;
             int k = i + 1;
 
@@ -89,14 +91,14 @@ namespace MarkVarneyGUICalc
                 if (input[i] == '+' || input[i] == '-')
                 {
                     if (input[k] != '+' && input[k] != '-')
-                        z = false;
+                        toggle = false;
 
-                    if (z == true)
+                    if (toggle == true)
                         localIsFormatCorrect = false;
                     if (input[k] == '*' || input[k] == '/' || input[k] == '%')
                         localIsFormatCorrect = false;
                     if (input[k] == '+' || input[k] == '-')
-                        z = true;
+                        toggle = true;
                 }
             }
             if (Char.IsNumber(input[k]) == false)
